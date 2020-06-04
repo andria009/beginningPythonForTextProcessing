@@ -1,4 +1,4 @@
-# Begining Python for Text Processing
+# Beginning Python for Text Processing
 
 This repository contains the slides, code, and required texts of my talk [“Taming The Python for Text Crunching”](presentation.pdf).
 The target audience are people new to Python programming and Text processing.
